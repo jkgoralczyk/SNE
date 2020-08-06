@@ -1,0 +1,2 @@
+# SNE
+ Sieci neuronowe
